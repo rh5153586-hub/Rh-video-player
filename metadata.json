@@ -1,0 +1,7 @@
+{
+  "name": "Rh Video Downloader and Player",
+  "description": "Production-ready Android video downloader and media player with Material 3 UI, multi-platform media extraction, PiP mini-player, and background queue manager.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
